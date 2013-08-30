@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Where in the world is Ethan White]]></title>
   <link href="http://ethanwhite.github.io/atom.xml" rel="self"/>
   <link href="http://ethanwhite.github.io/"/>
-  <updated>2013-08-29T21:01:30-04:00</updated>
+  <updated>2013-08-29T22:19:10-04:00</updated>
   <id>http://ethanwhite.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Ethan White]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[test post]]></title>
+    <link href="http://ethanwhite.github.io/blog/2013/08/29/test-post/"/>
+    <updated>2013-08-29T21:56:00-04:00</updated>
+    <id>http://ethanwhite.github.io/blog/2013/08/29/test-post</id>
+    <content type="html"><![CDATA[<p>This is a test.</p>
+
+<p>It is only a test.</p>
+]]></content>
+  </entry>
   
 </feed>
