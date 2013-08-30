@@ -3,8 +3,8 @@
 # ----------------------- #
 
 url: http://ethanwhite.github.io
-title: Ethan White's Site
-subtitle: A digital nexus
+title: Where in the world is Ethan White
+subtitle: 
 author: Ethan White
 simple_search: http://google.com/search
 description: A central place to keep track of Ethan White's online activities
@@ -82,7 +82,7 @@ googleplus_user:
 googleplus_hidden: false
 
 # Pinboard
-pinboard_user: ethanwhite
+pinboard_user:
 pinboard_count: 3
 
 # Delicious
