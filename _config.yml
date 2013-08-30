@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://ethanwhite.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Ethan White's Site
+subtitle: A digital nexus
+author: Ethan White
 simple_search: http://google.com/search
-description:
+description: A central place to keep track of Ethan White's online activities
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -69,7 +69,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: ethanwhite
 twitter_tweet_button: true
 
 # Google +1
@@ -82,7 +82,7 @@ googleplus_user:
 googleplus_hidden: false
 
 # Pinboard
-pinboard_user:
+pinboard_user: ethanwhite
 pinboard_count: 3
 
 # Delicious
